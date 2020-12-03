@@ -1,0 +1,43 @@
+{
+    "coord": {
+      "lon": -66.87,
+      "lat": 10.5
+    },
+    "weather": [
+      {
+        "id": 301,
+        "main": "Drizzle",
+        "description": "drizzle",
+        "icon": "09n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 22.58,
+      "feels_like": 22.97,
+      "temp_min": 20.56,
+      "temp_max": 26,
+      "pressure": 1011,
+      "humidity": 65
+    },
+    "visibility": 8000,
+    "wind": {
+      "speed": 2.1,
+      "deg": 180
+    },
+    "clouds": {
+      "all": 75
+    },
+    "dt": 1601956420,
+    "sys": {
+      "type": 1,
+      "id": 8759,
+      "country": "VE",
+      "sunrise": 1601892955,
+      "sunset": 1601936118
+    },
+    "timezone": -14400,
+    "id": 6941738,
+    "name": "La Florida",
+    "cod": 801
+  }
